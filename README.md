@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 - 📫 You can reach me at my telegram: https://t.me/MRzfi
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrzf833)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fauzan121002)](https://github.com/anuraghazra/github-readme-stats)
