@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrzf833&include_all_commits=true&count_private=false)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrzf833&include_all_commits=true&count_private=false)
 
 
 Here are some ideas to get you started:
