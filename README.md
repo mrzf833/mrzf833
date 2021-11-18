@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 You can reach me at my telegram: <a href="https://t.me/MRzfi">@MRzfi</a>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrzf833)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrzf833&theme=chartreuse-dark&layout=compact)
