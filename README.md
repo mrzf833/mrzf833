@@ -9,7 +9,5 @@ Here are some ideas to get you started:
 - 🔭 I'm currently developing remote and freelance projects;
 - 🌱 I’m currently learning Laravel And Nuxt Js
 - 💬 Ask me about anything
-- 📫 You can reach me at my telegram: <a href="https://t.me/MRzfi">@MRzfi</a>
-
-
+- 📫 You can reach me at my Social Media: <a href="https://t.me/MRzfi">Telegram</a> <a href="https://www.linkedin.com/in/zulfa-iniko-falaq/">LinkedIn</a>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrzf833&layout=compact)
